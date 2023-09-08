@@ -1,0 +1,1 @@
+<h1>Laravel Comics</h1>
