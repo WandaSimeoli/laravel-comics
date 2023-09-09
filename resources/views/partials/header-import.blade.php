@@ -1,1 +1,1 @@
-<h1>Laravel Comics</h1>
+<h1 class="m-3">Laravel Comics</h1>
